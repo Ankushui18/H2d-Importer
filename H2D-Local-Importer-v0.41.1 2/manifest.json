@@ -1,0 +1,16 @@
+{
+  "name": "H2D Local Importer",
+  "id": "h2d-local-importer-dev",
+  "api": "1.0.0",
+  "editorType": [
+    "figma"
+  ],
+  "main": "src/code.js",
+  "ui": "src/ui.html",
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
